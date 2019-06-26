@@ -226,6 +226,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &18133867
 GameObject:
   m_ObjectHideFlags: 0
@@ -332,6 +333,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &85920396
 GameObject:
   m_ObjectHideFlags: 0
@@ -438,6 +440,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &220113846
 GameObject:
   m_ObjectHideFlags: 0
@@ -544,6 +547,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &381911446
 GameObject:
   m_ObjectHideFlags: 0
@@ -799,6 +803,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &606578678
 GameObject:
   m_ObjectHideFlags: 0
@@ -905,6 +910,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &650238992
 GameObject:
   m_ObjectHideFlags: 0
@@ -1011,6 +1017,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &683539695
 GameObject:
   m_ObjectHideFlags: 0
@@ -1117,6 +1124,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &697425696
 GameObject:
   m_ObjectHideFlags: 0
@@ -1223,6 +1231,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -1420,6 +1429,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &804955369
 GameObject:
   m_ObjectHideFlags: 0
@@ -1649,6 +1659,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &921669365
 GameObject:
   m_ObjectHideFlags: 0
@@ -2068,6 +2079,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &1234667200
 GameObject:
   m_ObjectHideFlags: 0
@@ -2269,6 +2281,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &1339544712
 GameObject:
   m_ObjectHideFlags: 0
@@ -2375,6 +2388,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &1376876453
 GameObject:
   m_ObjectHideFlags: 0
@@ -2481,6 +2495,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &1458302869
 GameObject:
   m_ObjectHideFlags: 0
@@ -2587,6 +2602,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &1533040888
 GameObject:
   m_ObjectHideFlags: 0
@@ -2693,6 +2709,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &1602363378
 GameObject:
   m_ObjectHideFlags: 0
@@ -2799,6 +2816,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &1611860503
 GameObject:
   m_ObjectHideFlags: 0
@@ -3198,6 +3216,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &1740406534
 GameObject:
   m_ObjectHideFlags: 0
@@ -3304,6 +3323,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &1802632729
 GameObject:
   m_ObjectHideFlags: 0
@@ -3438,6 +3458,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1807392728}
   - component: {fileID: 1807392727}
+  - component: {fileID: 1807392729}
   m_Layer: 0
   m_Name: GestorDelJuego
   m_TagString: Untagged
@@ -3460,6 +3481,7 @@ MonoBehaviour:
   textoVidas: {fileID: 1234667203}
   pelota: {fileID: 1802632735}
   barra: {fileID: 804955374}
+  gameOver: {fileID: 1950266406}
 --- !u!4 &1807392728
 Transform:
   m_ObjectHideFlags: 0
@@ -3474,6 +3496,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1807392729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1807392726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 996f5916a1fdb07408c83ad174fc2386, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textoPuntos: {fileID: 1620119447}
 --- !u!1 &1891717805
 GameObject:
   m_ObjectHideFlags: 0
@@ -3580,6 +3615,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &1905315047
 GameObject:
   m_ObjectHideFlags: 0
@@ -3872,6 +3908,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &2075004039
 GameObject:
   m_ObjectHideFlags: 0
@@ -3978,6 +4015,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &2134127908
 GameObject:
   m_ObjectHideFlags: 0
@@ -4084,6 +4122,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   efectoParticulas: {fileID: 3168425159685185777, guid: 139ed650e1a89cc43a763d6d2cb7023c,
     type: 3}
+  puntos: {fileID: 1807392729}
 --- !u!1 &2140823288
 GameObject:
   m_ObjectHideFlags: 0

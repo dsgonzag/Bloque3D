@@ -11,6 +11,8 @@ public class Vidas : MonoBehaviour
     public pelota pelota;
     public Barra barra;
 
+    public GameObject gameOver;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -24,10 +26,19 @@ public class Vidas : MonoBehaviour
     }
    public void PerderVida()
     {
+        if (vidas <= 0) return;
         Vidas.vidas--;
         ActualizarMarcadorVidas();
-
-        barra.Reset();
-        pelota.Reset();
+        if(vidas<=0)
+        {
+            //Mostrar Game Over
+            gameOver.SetActive(true);
+        }
+        else
+        {
+            barra.Reset();
+            pelota.Reset();
+        }
+        
     }
 }

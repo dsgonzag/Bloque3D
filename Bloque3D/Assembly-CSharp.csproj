@@ -65,6 +65,7 @@
     <Compile Include="Assets\Codigo\Barra.cs" />
     <Compile Include="Assets\Codigo\Bloques.cs" />
     <Compile Include="Assets\Codigo\pelota.cs" />
+    <Compile Include="Assets\Codigo\Puntos.cs" />
     <Compile Include="Assets\Codigo\Suelo.cs" />
     <Compile Include="Assets\Codigo\Vidas.cs" />
     <Reference Include="Unity.Timeline.Editor">
