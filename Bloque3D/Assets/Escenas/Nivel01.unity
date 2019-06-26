@@ -1868,6 +1868,7 @@ GameObject:
   - component: {fileID: 1062359894}
   - component: {fileID: 1062359893}
   - component: {fileID: 1062359892}
+  - component: {fileID: 1062359896}
   m_Layer: 0
   m_Name: Suelo
   m_TagString: Untagged
@@ -1883,10 +1884,10 @@ MeshCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1062359891}
   m_Material: {fileID: 13400000, guid: f10994a131249bc478cf8de8a2d05a1b, type: 2}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 3
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 14
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!23 &1062359893
@@ -1948,6 +1949,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1062359896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1062359891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 318e6d2579a841141855c721c8c0c033, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vidas: {fileID: 1807392727}
 --- !u!1 &1080559920
 GameObject:
   m_ObjectHideFlags: 0
@@ -3414,6 +3428,52 @@ MonoBehaviour:
   velocidadInicial: 600
   rig: {fileID: 1802632734}
   barra: {fileID: 804955373}
+--- !u!1 &1807392726
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1807392728}
+  - component: {fileID: 1807392727}
+  m_Layer: 0
+  m_Name: GestorDelJuego
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1807392727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1807392726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5c39ab514754a440a11a4a09cb13e78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textoVidas: {fileID: 1234667203}
+  pelota: {fileID: 1802632735}
+  barra: {fileID: 804955374}
+--- !u!4 &1807392728
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1807392726}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.7877252, y: 1.5178729, z: -25.570312}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1891717805
 GameObject:
   m_ObjectHideFlags: 0

@@ -65,6 +65,8 @@
     <Compile Include="Assets\Codigo\Barra.cs" />
     <Compile Include="Assets\Codigo\Bloques.cs" />
     <Compile Include="Assets\Codigo\pelota.cs" />
+    <Compile Include="Assets\Codigo\Suelo.cs" />
+    <Compile Include="Assets\Codigo\Vidas.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Dell - C4/Pictures/Bloques/Bloque3D/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
