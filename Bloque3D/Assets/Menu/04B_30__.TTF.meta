@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6437b4f2b3b5d6a4b9d2735b1352634e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 04b
+  fontNames:
+  - 04b
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c3e419f5ec304924b9ce8d8cbcc3b580, type: 3}
+  - {fileID: 12800000, guid: 43fa5e2f6fa698547944f728ba027f34, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
