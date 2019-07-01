@@ -11,7 +11,7 @@ public class SonidosPelota : MonoBehaviour
 
     void OnCollisionEnter(Collision otro)
     {
-       if(otro.gameObject.CompareTag("Bloques"))
+       if(otro.gameObject.CompareTag("Bloque"))
         {
             punto.Play();
         }

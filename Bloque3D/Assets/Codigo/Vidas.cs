@@ -13,6 +13,8 @@ public class Vidas : MonoBehaviour
 
     public GameObject gameOver;
 
+    public SonidoFinPartida sonidoFinPartida;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -31,6 +33,7 @@ public class Vidas : MonoBehaviour
         ActualizarMarcadorVidas();
         if(vidas<=0)
         {
+            sonidoFinPartida.GameOver();
             //Mostrar Game Over
             gameOver.SetActive(true);
         }
